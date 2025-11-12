@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prakhar Sonker  
 
-🎯 **Software Engineer | Full Stack Developer | Problem Solver**  
+🎯 **Software Engineer | Problem Solver**  
 💼 Currently working as a **Software Developer Trainee at Agicent, Noida**  
-🎓 **2025 B.Tech (CSSE)** graduate from **Ajay Kumar Garg Engineering College**  
+🎓 **2025 B.Tech (CSE)** graduate from **Ajay Kumar Garg Engineering College**  
 💻 Passionate about building scalable web applications and writing clean, efficient code.  
 
 ---
