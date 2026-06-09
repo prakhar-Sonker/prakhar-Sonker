@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prakhar Sonker  
 
 🎯 **Software Engineer | Problem Solver**  
-💼 Currently working as a **Software Developer Trainee at Agicent, Noida**  
+💼 Currently working as a **Associate Engineer at Cavista Technology, Pune**  
 🎓 **2025 B.Tech (CSE)** graduate from **Ajay Kumar Garg Engineering College**  
 💻 Passionate about building scalable web applications and writing clean, efficient code.  
 
